@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\MyProject_C++\SFML PROBN\SFML PROBN\main.cpp(327,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\MyProject_C++\SFML PROBN\SFML PROBN\main.cpp(347,60): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SFML PROBN.vcxproj -> C:\MyProject_C++\SFML PROBN\x64\Debug\SFML PROBN.exe
